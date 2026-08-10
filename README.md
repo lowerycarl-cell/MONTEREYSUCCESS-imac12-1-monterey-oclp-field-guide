@@ -73,7 +73,11 @@ A basic wired USB mouse dramatically simplified recovery and final configuration
 
 ## Attribution / licensing
 
-This package does not assign a public license yet. Before publishing widely, choose the license you prefer for the written guide (for example, **Creative Commons Attribution 4.0 (CC BY 4.0)** if you want others to freely share and adapt it with attribution).
+Copyright © 2026 Carl Lowery. The original written material in this repository is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**. You may share and adapt it, including for commercial purposes, provided appropriate attribution is given and changes are indicated.
+
+See **[LICENSE.md](./LICENSE.md)** for the licensing statement and suggested attribution.
+
+Third-party software, names, trademarks, screenshots, and referenced materials remain subject to their respective owners' rights and licenses.
 
 ## Official project
 

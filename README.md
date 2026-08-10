@@ -31,10 +31,8 @@ This case included several problems that are easy to encounter on older hardware
 
 ## Download the guide
 
-- **PDF:** `Mid-2011_iMac_Monterey_OCLP_Field_Guide_Redacted_v2.pdf`
-- **Editable DOCX:** `Mid-2011_iMac_Monterey_OCLP_Field_Guide_Redacted_v2.docx`
-
-The PDF is the recommended version for sharing. The DOCX is included as an editable master.
+- **[Download the PDF field guide](./Mid-2011_iMac_Monterey_OCLP_Field_Guide_Redacted_v2.pdf)** — recommended for reading and sharing.
+- **[Download the editable DOCX master](./Mid-2011_iMac_Monterey_OCLP_Field_Guide_Redacted_v2.docx)** — useful for future revisions.
 
 ## Read this before following the commands
 

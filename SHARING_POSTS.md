@@ -1,12 +1,14 @@
 # Ready-to-post announcements
 
+Repository: https://github.com/lowerycarl-cell/MONTEREYSUCCESS-imac12-1-monterey-oclp-field-guide
+
 ## Reddit / r/OpenCoreLegacyPatcher
 
 **Title:** Mid-2011 iMac (iMac12,1) High Sierra → Monterey: internal installer workaround + Magic Mouse duplicate-entry fix
 
 I documented a full real-world upgrade of a 21.5-inch Mid-2011 iMac (iMac12,1) from High Sierra to Monterey with OCLP.
 
-The machine has a 2.5 GHz Core i5, 24 GB RAM, and a 1 TB SSD. The final result is surprisingly good—Monterey is running smoothly enough that the upgrade was well worth the effort.
+The machine has a 2.5 GHz Core i5, 24 GB RAM, and a 1 TB SSD. The final result is excellent enough that the upgrade was well worth the effort.
 
 A few things made this installation unusual:
 
@@ -18,13 +20,14 @@ A few things made this installation unusual:
 - Wi-Fi works reliably but currently requires a manual connect after startup.
 - The temporary installer partition was removed afterward and the APFS container expanded back to the full 1 TB.
 
-I turned the full process into a redacted, chapter-by-chapter field guide with checkpoints so readers can tell when to stop rather than rushing ahead.
+I turned the full process into a redacted, chapter-by-chapter field guide with checkpoints so readers can tell when to stop and verify rather than rushing ahead.
 
-**Important:** it is an independent case study, not official OCLP documentation, and disk identifiers in the guide are machine-specific.
+**Important:** this is an independent case study, not official OCLP documentation, and disk identifiers in the guide are machine-specific. Always verify your own disk layout before running erase or resize commands.
 
-[ADD GUIDE LINK]
+Guide and downloads:
+https://github.com/lowerycarl-cell/MONTEREYSUCCESS-imac12-1-monterey-oclp-field-guide
 
-If anyone has the same iMac12,1 hardware and runs into similar SD-reader, Bluetooth, or legacy Wi-Fi behavior, I hope this saves you some time.
+If anyone has the same iMac12,1 hardware and runs into similar SD-reader, Bluetooth, or legacy Wi-Fi behavior, I hope this saves you some time. I would also welcome corrections from experienced OCLP users where a safer or more current method exists.
 
 ---
 
@@ -45,9 +48,10 @@ The main complications were:
 
 The guide includes redacted screenshots, terminal commands, checkpoints, and warnings around destructive disk operations.
 
-[ADD GUIDE LINK]
+Guide and downloads:
+https://github.com/lowerycarl-cell/MONTEREYSUCCESS-imac12-1-monterey-oclp-field-guide
 
-This is an independent case study, not official Dortania/OCLP documentation. Anyone following it should verify current OCLP documentation and their own disk identifiers before using any erase/resize commands.
+This is an independent case study, not official Dortania/OCLP documentation. Anyone following it should verify current OCLP documentation and their own disk identifiers before using any erase/resize commands. Corrections and safer alternatives are welcome.
 
 ---
 
@@ -57,6 +61,6 @@ I successfully upgraded a Mid-2011 21.5-inch iMac from High Sierra to Monterey u
 
 I documented the whole process—including an internal installer-partition workaround, Wi-Fi recovery, a Magic Mouse duplicate-entry fix, and final disk cleanup—in a redacted step-by-step guide.
 
-[ADD GUIDE LINK]
+https://github.com/lowerycarl-cell/MONTEREYSUCCESS-imac12-1-monterey-oclp-field-guide
 
 Important: this is a real-world case study, not official OCLP documentation. Always verify your own Mac model and disk layout first.
